@@ -1,0 +1,20 @@
+plugins {
+    id 'java'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.1'
+    testImplementation 'org.junit.jupiter:junit-jupiter-engine:5.7.1'
+    testImplementation 'com.codeborne:selenide:5.22.0' // Зависимость для Selenide
+}
+
+test {
+    useJUnitPlatform() // Для использования JUnit 5
+}
+
+
+
