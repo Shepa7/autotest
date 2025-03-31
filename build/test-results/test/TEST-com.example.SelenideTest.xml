@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.SelenideTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-03-30T18:44:13.883Z" hostname="MacBook-Pro-Alena.local" time="5.763">
+  <properties/>
+  <testcase name="testSelenide()" classname="com.example.SelenideTest" time="5.763"/>
+  <system-out><![CDATA[Элемент найден, тест прошел успешно!
+]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 134.0.6998.165 (fd886e2cb29dd984c13deec032832dee68d8abe3-refs/branch-heads/6998@{#2122}) on port 3280
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully on port 3280.
+мар. 30, 2025 11:44:16 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
