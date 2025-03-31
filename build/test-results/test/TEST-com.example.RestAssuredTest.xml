@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.RestAssuredTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-03-30T18:44:12.035Z" hostname="MacBook-Pro-Alena.local" time="1.838">
+  <properties/>
+  <testcase name="shouldReturn200StatusCode()" classname="com.example.RestAssuredTest" time="1.838"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
